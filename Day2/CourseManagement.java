@@ -13,6 +13,6 @@ public class CourseManagement {
 		Student studTemp = new Student();
 		System.out.println(studTemp.getStudentId());
 		System.out.println(studTemp.getStudentType());
-		
+
 	}
 }

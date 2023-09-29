@@ -11,11 +11,11 @@ public class UserType {
 	public UserType() {
 		this("Student");
 	}
-	
+
 	public static void main(String[] args) {
 		UserType userType1 = new UserType("Faculty");
 		UserType userType2 = new UserType();
-		
+
 		System.out.println(userType1.name);
 		System.out.println(userType2.name);
 	}
